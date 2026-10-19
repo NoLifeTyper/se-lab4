@@ -1,0 +1,3 @@
+GT4500,10,1.0,10,0.0    # Uj hajo, primer 100% hibas, szekunder hibatlan
+TORPEDO,SINGLE          # Elso loves (primer hibas, nincs masik kiserlet)
+EXIT

@@ -1,0 +1,4 @@
+GT4500,10,0.0,10,0.0    # Uj hajo, 10-10 TORPEDO, 0 hiba
+TORPEDO,SINGLE          # Elso loves (primerbol)
+TORPEDO,SINGLE          # masodik loves (szekunderbol)
+EXIT

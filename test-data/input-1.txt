@@ -1,0 +1,3 @@
+GT4500,10,0,10,0    # uj hajo, 10-10 TORPEDO, 0 hiba
+TORPEDO,SINGLE      # Elso loves (primerbol kellene)
+EXIT
